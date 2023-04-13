@@ -6,7 +6,7 @@ Click here -> [Discord](https://discord.gg/AWndKMeg)
 
 ## ✨ Exemple for Editing
 <details>
-  <summary>Custom Permession Name / Click to open</summary>
+  <summary>Click to open</summary>
 
 ```html
 <body>
