@@ -18,19 +18,19 @@ Click here -> [Discord](https://discord.gg/AWndKMeg)
       <section>
         <h2>Projekt 1</h2>
         <p>Description of project 1</p>
-        <img src="images/image1.jpg" alt="Projekt 1">
+        <img src="images/image1.jpg" alt="Project 1">
         <button onclick="window.location.href='https://google.com'">GitHub Link</button>
       </section>
       <section>
         <h2>Project 2</h2>
         <p>Description of project 2</p>
-        <img src="images/image2.jpg" alt="Projekt 2">
+        <img src="images/image2.jpg" alt="Project 2">
         <button onclick="window.location.href='https://google.com'">GitHub Link</button>
       </section>
       <section>
         <h2>Project 3</h2>
         <p>Description of project 3</p>
-        <img src="images/image3.jpg" alt="Projekt 3">
+        <img src="images/image3.jpg" alt="Project 3">
         <button onclick="window.location.href='https://google.com'">GitHub Link</button>
       </section>
     </main>
